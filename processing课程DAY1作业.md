@@ -1,4 +1,4 @@
-==== Processing 课程 DAY1 作业
+# Processing 课程 DAY1 作业
 ###  作业要求
 #####  *利用绘图函数创作，自行设计造型图案
 
