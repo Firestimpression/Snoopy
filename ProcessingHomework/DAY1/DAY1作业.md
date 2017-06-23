@@ -10,5 +10,5 @@
 
 
 ### 运行截图
-![运行截图]()
+![运行截图](https://github.com/Firestimpression/Snoopy/blob/master/ProcessingHomework/DAY1/2017-06-23%20(2).png)
 
