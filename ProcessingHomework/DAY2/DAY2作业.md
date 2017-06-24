@@ -11,5 +11,5 @@
 
 ### 运行截图
 ![运行截图1](https://github.com/Firestimpression/Snoopy/blob/master/ProcessingHomework/DAY2/2017-06-24%20(3).png)
-![运行截图2]（https://github.com/Firestimpression/Snoopy/blob/master/ProcessingHomework/DAY2/2017-06-24%20(4).png）
-![运行截图3]（https://github.com/Firestimpression/Snoopy/blob/master/ProcessingHomework/DAY2/2017-06-24%20(5).png）
+![运行截图2](https://github.com/Firestimpression/Snoopy/blob/master/ProcessingHomework/DAY2/2017-06-24%20(5).png)
+![运行截图3](https://github.com/Firestimpression/Snoopy/blob/master/ProcessingHomework/DAY2/2017-06-24%20(4).png)
